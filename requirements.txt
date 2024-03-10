@@ -1,0 +1,5 @@
+plotly
+numpy
+nrn-patch==4.0.0b3
+nmodl-glia==4.0.0b6
+./mechanisms
